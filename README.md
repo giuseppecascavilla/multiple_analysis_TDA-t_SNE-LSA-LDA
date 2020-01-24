@@ -1,0 +1,16 @@
+# multiple analysis
+- preprocessing phase
+- ADDED Build the Bigram, Trigram Models and Lemmatize
+- ADDED new version for Topic Model
+- reused code for Compute c_v coherence for various number of topics
+- ADDED analysis Dominant topic and its percentage contribution in each document
+- ADDED analysis for most representative sentence for each topic
+- ADDED analysis Frequency Distribution of Word Counts in Documents
+- ADDED Distribution of Word Counts in Documents
+- ADDED Word Clouds of Top N Keywords in Each Topic
+- ADDED Word Counts of Topic Keywords
+- ADDED Sentence Chart Colored by Topic
+- ADDED analysis What are the most discussed topics in the documents
+- ADDED t-SNE Clustering Chart
+- Topological Analysis (Using kmapper to create a 2D topology based on the word2vec extraction)
+- Mapper with LSA
