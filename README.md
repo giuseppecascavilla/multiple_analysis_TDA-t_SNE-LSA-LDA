@@ -1,4 +1,5 @@
 # multiple analysis
+- ADDED distribution of sentences and codes among the topics
 - preprocessing phase
 - ADDED Build the Bigram, Trigram Models and Lemmatize
 - ADDED new version for Topic Model
